@@ -2,7 +2,7 @@
 
 # It includes 
 
-#1. Dice
+#1. Dice<br>
   This app allows you to roll two dice with a roll button.
 
 #2. Magic 8 Ball
